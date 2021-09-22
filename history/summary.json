@@ -4,7 +4,7 @@
     "url": "https://portalcfdi.facturaelectronica.sat.gob.mx",
     "icon": "https://favicons.githubusercontent.com/portalcfdi.facturaelectronica.sat.gob.mx",
     "slug": "sat-portal-cfdi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 953,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2021-09-22": 0,
       "2021-09-01": 33,
       "2021-08-10": 46,
       "2021-08-01": 18,
