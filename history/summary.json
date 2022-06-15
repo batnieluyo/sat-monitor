@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/portalcfdi.facturaelectronica.sat.gob.mx",
     "slug": "sat-portal-cfdi",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 603,
-    "timeDay": 449,
-    "timeWeek": 455,
-    "timeMonth": 511,
+    "timeDay": 572,
+    "timeWeek": 500,
+    "timeMonth": 508,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2022-04-23": 21,
@@ -38,8 +38,7 @@
       "2021-06-22": 18,
       "2021-06-18": 52,
       "2021-06-17": 121,
-      "2021-06-16": 296,
-      "2021-06-15": 22
+      "2021-06-16": 296
     }
   }
 ]
