@@ -6,15 +6,15 @@
     "slug": "sat-portal-cfdi",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.67%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.36%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
     "time": 688,
-    "timeDay": 325,
-    "timeWeek": 422,
-    "timeMonth": 520,
-    "timeYear": 721,
+    "timeDay": 393,
+    "timeWeek": 419,
+    "timeMonth": 432,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2023-08-03": 18,
       "2023-08-02": 15,
@@ -36,8 +36,7 @@
       "2022-11-22": 61,
       "2022-11-18": 39,
       "2022-11-01": 40,
-      "2022-09-26": 27,
-      "2022-08-04": 102
+      "2022-09-26": 27
     }
   }
 ]
