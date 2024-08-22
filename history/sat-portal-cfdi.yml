@@ -1,7 +1,7 @@
 url: https://portalcfdi.facturaelectronica.sat.gob.mx
-status: down
-code: 503
-responseTime: 178
-lastUpdated: 2024-08-22T14:18:26.584Z
+status: up
+code: 200
+responseTime: 746
+lastUpdated: 2024-08-22T14:34:09.840Z
 startTime: 2021-06-15T00:32:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
