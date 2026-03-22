@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portalcfdi.facturaelectronica.sat.gob.mx.ico",
     "slug": "sat-portal-cfdi",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.60%",
     "time": 796,
-    "timeDay": 721,
-    "timeWeek": 1871,
-    "timeMonth": 1221,
-    "timeYear": 803,
+    "timeDay": 1000,
+    "timeWeek": 1914,
+    "timeMonth": 1237,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2026-02-23": 70,
       "2026-02-11": 57,
@@ -43,8 +43,7 @@
       "2025-06-08": 41,
       "2025-05-30": 34,
       "2025-04-30": 16,
-      "2025-03-31": 15,
-      "2025-03-22": 199
+      "2025-03-31": 15
     }
   }
 ]
